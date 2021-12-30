@@ -1,0 +1,32 @@
+.new, .buttons{
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    margin: 100px auto;
+}
+button{
+    width: 300px;
+    height: 100px;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 100px;
+    color: white;
+    background-color: yellowgreen;
+    margin: 20px 20px;
+    border: yellowgreen;
+    border-radius: 4px;
+}
+.amount{
+    width: 100px;
+    height: 100px;
+    border: yellowgreen 1px solid;
+    border-radius: 4px;
+    line-height: 100px;
+    text-align: center;
+    color: black;
+    margin: 120px 20px;
+    font-size: 24px;
+    font-weight: 400;
+}
+
